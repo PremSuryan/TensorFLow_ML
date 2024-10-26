@@ -1,0 +1,12 @@
+# Python==3.7
+numpy
+pandas
+matplotlib
+seaborn
+Image
+opencv-python
+keras
+tensorflow
+scikit-learn
+
+
